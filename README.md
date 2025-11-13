@@ -1,10 +1,3 @@
-Excellent 😎 — on passe donc à un **niveau expert GitHub Profile**.
-Voici une version **professionnelle, élégante et percutante** de ton `README.md`, prête à être collée directement dans ton dépôt `JordanNONO/JordanNONO`.
-Cette version intègre :
-✅ une **présentation valorisante**,
-✅ des **badges dynamiques**,
-✅ des **stats GitHub stylées**,
-✅ et une **mise en forme soignée** façon “expert développeur data”.
 
 ---
 
