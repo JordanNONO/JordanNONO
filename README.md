@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Banner" width="120"/>
+  <img src="https://raw.githubusercontent.com/aleen42/PersonalWiki/master/images/github.png" alt="Tech Banner" width="100%"/>
 </p>
 
 <p align="center">
