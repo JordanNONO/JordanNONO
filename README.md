@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aleen42/PersonalWiki/master/images/github.png" alt="Tech Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/data-science/data-science.png"
+       alt="Professional banner"
+       style="width:100%;max-height:220px;object-fit:cover;border-radius:6px;" />
 </p>
 
 <p align="center">
