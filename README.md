@@ -20,6 +20,7 @@
 
 ### 💡 About Me
 
+<<<<<<< HEAD
 Passionate about **data engineering, analytics and scalable software development**,  
 I design complete solutions — from **data ingestion pipelines** to **production-ready applications**.
 
@@ -82,7 +83,11 @@ I design complete solutions — from **data ingestion pipelines** to **productio
 
 ### ⚡ Vision
 
+<<<<<<< HEAD
 > Engineer the data. Analyze the insights. Build scalable solutions.
+=======
+> “Engineer the data. Analyze the insights. Build the solution.”
+>>>>>>> 566d8fcfb6fd9212d64425a91374a789d7ec2056
 
 ---
 
@@ -91,4 +96,12 @@ I design complete solutions — from **data ingestion pipelines** to **productio
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JordanNONO&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordanNONO&theme=tokyonight" />
+<<<<<<< HEAD
 </p>
+=======
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanNONO&layout=compact&theme=tokyonight" />
+</p>
+>>>>>>> 566d8fcfb6fd9212d64425a91374a789d7ec2056
