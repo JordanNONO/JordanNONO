@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://portfoliojordannono.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=39FF14" />
+  </a>
   <a href="https://www.linkedin.com/in/jordannono/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
